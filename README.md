@@ -1,56 +1,47 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# awesome-books
 
-> Description the project.
+It is a project for Microverse's JavaScript Module to be done using pair-programming.
 
+### Desktop Version
+
+![Desktop - Books List Page](./assets/img/awesome-books-home-desktop-version.png)
+![Desktop - Add Book Page](./assets/img/awesome-books-add-new-desktop-version.png)
+![Desktop - Contact Page](./assets/img/awesome-books-contact-desktop-version.png)
+
+### Mobile Version
+
+![Mobile - Books List Page](./assets/img/awesome-books-home-mobile-version.png)
+
+In this website you can add books of your choice to the list of books and save them in your browser's localstorage.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS and JavaScript (ES6)
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+- [Live Demo Link](https://silviatofana.github.io/awesome-books-es6-modules/)
+- Live Demo Might not work due to 'luxon' module. So, you checkout it out by intalling it locally following the steps in 'Getting Started' section.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Install Node.js
+- Install text editor of your choice (eg. VS Code)
+- Clone the repository from [here](https://github.com/gtekle/awesome-books-with-es6-modules.git)
+- Change directory to 'cd awesome-books-with-es6-modules'
+- On the root directory, run 'npm install' on the terminal to install packages.
+- Open the index.html file in your browser (using live server) to check your updates and navigate to other pages.
 
 ## Authors
 
-👤 **Author1**
+👤 **Silvia Tofana **
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@silviatofana](https://github.com/silviatofana)
+- LinkedIn: [@silviatofana](www.linkedin.com/in/silvia-tofana-10b852186)
+- Twitter: [@silviatofana](https://twitter.com/SilviaTofana)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,9 +55,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Microverse Inc](https://www.microverse.org/)
 
 ## 📝 License
 
