@@ -22,7 +22,7 @@ In this website you can add books of your choice to the list of books and save t
 
 ## Live Demo
 
-- [Live Demo Link](https://silviatofana.github.io/awesome-books-es6-modules/)
+- [Live Demo Link]([https://silviatofana.github.io/awesome-books-es6-modules/]
 - Live Demo Might not work due to 'luxon' module. So, you checkout it out by intalling it locally following the steps in 'Getting Started' section.
 
 ## Getting Started
