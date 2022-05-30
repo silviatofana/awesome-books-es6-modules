@@ -29,7 +29,7 @@ In this website you can add books of your choice to the list of books and save t
 
 - Install Node.js
 - Install text editor of your choice (eg. VS Code)
-- Clone the repository from [here](https://github.com/gtekle/awesome-books-with-es6-modules.git)
+- Clone the repository from [here](https://github.com/silviatofana/awesome-books-es6-modules)
 - Change directory to 'cd awesome-books-with-es6-modules'
 - On the root directory, run 'npm install' on the terminal to install packages.
 - Open the index.html file in your browser (using live server) to check your updates and navigate to other pages.
