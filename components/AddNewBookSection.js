@@ -35,6 +35,8 @@ form.addEventListener('submit', (event) => {
   const { title, author } = form.elements;
   const newBook = new Book(title.value, author.value);
   newBook.addBook();
+  title.value = ('');
+  author.value = ('');
   saveFormData({ title: title.value, author: author.value });
   booksList.appendChild(displayBook(newBook));
   displaySuccess();
